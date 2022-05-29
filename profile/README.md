@@ -12,5 +12,5 @@ Do not worry however! Experienced players will have a chance to play against oth
 ## JOIN US!
 Join Our [Discord!](https://discord.gg/HJgM9WSTrw)
 
-# Note
+## Note
 Most of our resources are private, that is why you may not be able to see the Repositories.
