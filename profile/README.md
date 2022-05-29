@@ -20,4 +20,8 @@ Join our [Discord!](https://discord.gg/HJgM9WSTrw)
 
 <hr/>
 
+<div align="center">
+  
 ###### Note: Most of our code are private which is why you will not be able to many of our repositories.
+  
+  </div>
