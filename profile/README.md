@@ -14,11 +14,11 @@ Do not worry, however! Experienced players will have a chance to play against ot
 - Our goal is to make a Server that all players can enjoy. Whether you're an experienced pvp'er or a newcomer to the Bedrock scene, SkyMist will be there for everyone!
 
 <hr/>
-
-### JOIN US!
-Join our [Discord!](https://discord.gg/HJgM9WSTrw)
-
-<hr/>
+<div align="center">
+<a href="https://discord.gg/HJgM9WSTrw" target="_blank">
+<img src="https://discord.com/assets/9f6f9cd156ce35e2d94c0e62e3eff462.png" width="32px" alt="Discord">
+  </a>
+</div>
 
 <div align="center">
   
