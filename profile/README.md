@@ -1,4 +1,4 @@
-![SkyMist](https://cdn.discordapp.com/attachments/966368014930968646/980429494630371358/skymist.png)
+![SkyMist](https://media.discordapp.net/attachments/966368014930968646/980429683084627978/New_Project_4CF6F6A.png?width=819&height=205)
 ## What Is SkyMist?
 Skymist is a new up and coming Minecraft: Bedrock server focused around the "Bedfight" Gamemode. We thrive for all players, experienced or not, to play and enjoy Minecraft as we know it! <br/>
 Do not worry however! Experienced players will have a chance to play against other well versed players in a 1v1 sitation! <br/>
