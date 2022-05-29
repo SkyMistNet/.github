@@ -5,9 +5,9 @@ Do not worry however! Experienced players will have a chance to play against oth
 
 ## What Do We Do/Provide?
 
--- We Thrive to make an enjoyable server for all players on all platforms! (Mobile Queueing Toggle in Settings)
--- We Provide standard BedFight alongside many various flavours of BedFight to provide a fun experience to players! 
--- Our Goal is to make a Server that all players can enjoy. Whether you're an experienced pvp'er or a newcomer to the Bedrock scene, SkyMist will be there for Everyone!
+- We Thrive to make an enjoyable server for all players on all platforms! (Mobile Queueing Toggle in Settings)
+- We Provide standard BedFight alongside many various flavours of BedFight to provide a fun experience to players! 
+- Our Goal is to make a Server that all players can enjoy. Whether you're an experienced pvp'er or a newcomer to the Bedrock scene, SkyMist will be there for Everyone!
 
 ## JOIN US!
 Join Our [Discord!](https://discord.gg/HJgM9WSTrw)
